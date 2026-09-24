@@ -42,7 +42,7 @@ Um jogo educativo interativo para ensinar matemática de forma divertida!
 3. Selecione "Adicionar à Tela Inicial"
 
 ## 👨‍💻 Desenvolvido por
-VictoryTips26@gmail.com
+victorytips26@gmail.com
 
 ## 📄 Licença
 
