@@ -1,6 +1,6 @@
 # Batalha da Tabuada 🎮
 
-Um jogo educativo interativo para ensinar multiplicação de forma divertida!
+Um jogo educativo interativo para ensinar matemática de forma divertida!
 
 ## 📚 Sobre
 
@@ -17,7 +17,7 @@ Um jogo educativo interativo para ensinar multiplicação de forma divertida!
 ## 🚀 Como Jogar
 
 1. Acesse o jogo [aqui](https://victorytips26-ai.github.io/batalha-da-tabuada)
-2. Selecione a tabuada (2 ao 5)
+2. Selecione a tabuada
 3. Responda as questões o mais rápido possível
 4. Vença e suba no ranking!
 
